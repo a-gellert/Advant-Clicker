@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0030d0e12ab843648b90ae8e289a7053, type: 3}
+  m_Name: 5_Business
+  m_EditorClassIdentifier: 
+  id: 005
+  incomeDelay: 30
+  initialPrice: 5000
+  initialIncome: 5000
+  currentLevel: 0
+  priceOfFirstBoost: 100000
+  multiplierOfFirstBoost: 200
+  priceOfSecondBoost: 500000
+  multiplierOfSecondBoost: 400
